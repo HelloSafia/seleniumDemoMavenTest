@@ -1,0 +1,15 @@
+<suite name = "seleniumDemoMavenTest">
+
+   <test name = "LoginTest">
+      <classes>
+         <class name = "com.demoTest.seleniumDemoMavenTest.Test.LoginTest" />
+      </classes>
+   </test>
+   <test name = "assignleaveTest">
+      <classes>
+         <class name = "com.demoTest.seleniumDemoMavenTest.Test.AssignLeaveTest" />
+      </classes>
+   </test>
+  
+  
+</suite> 
